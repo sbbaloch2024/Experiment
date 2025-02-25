@@ -1,4 +1,4 @@
-### SqueezeBERT for Text Classification on MNLI (GLUE Benchmark)
+# SqueezeBERT for Text Classification on MNLI (GLUE Benchmark)
 
 This project fine-tunes the SqueezeBERT transformer model for sequence classification using the MNLI dataset from the GLUE benchmark. The MNLI dataset consists of premise-hypothesis pairs where the task is to predict whether the hypothesis entails, contradicts, or is neutral to the premise.
 
